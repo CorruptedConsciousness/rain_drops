@@ -3,6 +3,7 @@
 
 A Windows screensaver featuring cascading green binary rain,
 built with Python and Tkinter.
+![Rain Drops Screensaver](screenshot/image.png)
 
 Created by CorruptedConsciousness.
 
